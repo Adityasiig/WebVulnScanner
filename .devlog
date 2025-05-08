@@ -2,3 +2,4 @@
 [2025-05-04] feat: base async scan engine v2 (2)
 [2025-05-04] feat: base async scan engine v2 (3)
 [2025-05-08] fix: timeout on slow targets (1)
+[2025-05-08] fix: timeout on slow targets (2)
