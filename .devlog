@@ -7,3 +7,4 @@
 [2025-05-13] feat: XSS payload list expanded (2)
 [2025-05-19] refactor: crawler module cleanup (1)
 [2025-05-19] refactor: crawler module cleanup (2)
+[2025-05-24] feat: SQLi blind detection (1)
