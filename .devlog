@@ -10,3 +10,4 @@
 [2025-05-24] feat: SQLi blind detection (1)
 [2025-05-24] feat: SQLi blind detection (2)
 [2025-05-24] feat: SQLi blind detection (3)
+[2025-05-29] fix: regex false positives (1)
