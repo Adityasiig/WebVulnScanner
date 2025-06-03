@@ -14,3 +14,4 @@
 [2025-05-29] fix: regex false positives (2)
 [2025-06-03] feat: LFI module rewrite (1)
 [2025-06-03] feat: LFI module rewrite (2)
+[2025-06-03] feat: LFI module rewrite (3)
