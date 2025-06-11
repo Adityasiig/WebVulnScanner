@@ -17,3 +17,4 @@
 [2025-06-03] feat: LFI module rewrite (3)
 [2025-06-07] fix: encoding errors in response parser (1)
 [2025-06-07] fix: encoding errors in response parser (2)
+[2025-06-11] feat: WAF fingerprinting v2 (1)
