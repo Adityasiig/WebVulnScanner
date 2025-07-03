@@ -29,3 +29,4 @@
 [2025-06-25] feat: HTML report generator (3)
 [2025-06-29] fix: connection pool exhaustion (1)
 [2025-07-03] feat: SSRF out-of-band detection (1)
+[2025-07-03] feat: SSRF out-of-band detection (2)
