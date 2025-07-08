@@ -32,3 +32,4 @@
 [2025-07-03] feat: SSRF out-of-band detection (2)
 [2025-07-03] feat: SSRF out-of-band detection (3)
 [2025-07-08] fix: redirect loop handling (1)
+[2025-07-08] fix: redirect loop handling (2)
