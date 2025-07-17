@@ -36,3 +36,4 @@
 [2025-07-13] feat: async request pipeline (1)
 [2025-07-13] feat: async request pipeline (2)
 [2025-07-13] feat: async request pipeline (3)
+[2025-07-17] refactor: decouple core from reporter (1)
