@@ -38,3 +38,4 @@
 [2025-07-13] feat: async request pipeline (3)
 [2025-07-17] refactor: decouple core from reporter (1)
 [2025-07-17] refactor: decouple core from reporter (2)
+[2025-07-22] feat: CLI argument parser (1)
