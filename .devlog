@@ -42,3 +42,4 @@
 [2025-07-22] feat: CLI argument parser (2)
 [2025-07-27] fix: null byte injection edge case (1)
 [2025-07-27] fix: null byte injection edge case (2)
+[2025-08-02] feat: CORS misconfiguration checker (1)
