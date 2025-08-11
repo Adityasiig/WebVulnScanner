@@ -47,3 +47,4 @@
 [2025-08-02] feat: CORS misconfiguration checker (3)
 [2025-08-06] fix: TLS bypass option (1)
 [2025-08-06] fix: TLS bypass option (2)
+[2025-08-11] feat: subdomain enum via crt.sh (1)
