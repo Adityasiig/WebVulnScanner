@@ -54,3 +54,4 @@
 [2025-08-15] refactor: output formatter rewrite (2)
 [2025-08-20] test: integration tests on live target (1)
 [2025-08-20] test: integration tests on live target (2)
+[2025-08-25] feat: cookie injection support (1)
