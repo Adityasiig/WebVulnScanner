@@ -63,3 +63,4 @@
 [2025-09-03] feat: JWT misconfiguration checker (3)
 [2025-09-08] fix: unicode decode in response body (1)
 [2025-09-08] fix: unicode decode in response body (2)
+[2025-09-12] feat: open redirect detection (1)
