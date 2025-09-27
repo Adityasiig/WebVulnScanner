@@ -71,3 +71,4 @@
 [2025-09-22] feat: IDOR pattern heuristics (1)
 [2025-09-22] feat: IDOR pattern heuristics (2)
 [2025-09-22] feat: IDOR pattern heuristics (3)
+[2025-09-27] fix: retry logic on 5xx responses (1)
