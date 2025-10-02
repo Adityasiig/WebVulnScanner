@@ -74,3 +74,4 @@
 [2025-09-27] fix: retry logic on 5xx responses (1)
 [2025-09-27] fix: retry logic on 5xx responses (2)
 [2025-10-02] feat: POST body param injection (1)
+[2025-10-02] feat: POST body param injection (2)
