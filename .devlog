@@ -78,3 +78,4 @@
 [2025-10-02] feat: POST body param injection (3)
 [2025-10-07] fix: session cookie scope bug (1)
 [2025-10-07] fix: session cookie scope bug (2)
+[2025-10-12] feat: auth bypass module (1)
