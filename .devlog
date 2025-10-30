@@ -87,3 +87,4 @@
 [2025-10-21] fix: threading race condition (2)
 [2025-10-26] feat: verbose + quiet mode flags (1)
 [2025-10-26] feat: verbose + quiet mode flags (2)
+[2025-10-30] chore: bump version to 2.0.0 (1)
