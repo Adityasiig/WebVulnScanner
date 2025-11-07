@@ -91,3 +91,4 @@
 [2025-11-03] feat: WebSocket injection support (1)
 [2025-11-03] feat: WebSocket injection support (2)
 [2025-11-03] feat: WebSocket injection support (3)
+[2025-11-07] fix: header injection normalization (1)
