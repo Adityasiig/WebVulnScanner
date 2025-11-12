@@ -93,3 +93,4 @@
 [2025-11-03] feat: WebSocket injection support (3)
 [2025-11-07] fix: header injection normalization (1)
 [2025-11-07] fix: header injection normalization (2)
+[2025-11-12] refactor: async engine overhaul (1)
