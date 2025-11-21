@@ -99,3 +99,4 @@
 [2025-11-17] feat: multithreaded scan pipeline (1)
 [2025-11-17] feat: multithreaded scan pipeline (2)
 [2025-11-17] feat: multithreaded scan pipeline (3)
+[2025-11-21] fix: memory leak in URL crawler (1)
