@@ -102,3 +102,4 @@
 [2025-11-21] fix: memory leak in URL crawler (1)
 [2025-11-21] fix: memory leak in URL crawler (2)
 [2025-11-26] feat: JSON + CSV export formats (1)
+[2025-11-26] feat: JSON + CSV export formats (2)
