@@ -110,3 +110,4 @@
 [2025-12-07] fix: WAF evasion payload encoding (1)
 [2025-12-07] fix: WAF evasion payload encoding (2)
 [2025-12-11] feat: CVSS-lite severity scoring (1)
+[2025-12-11] feat: CVSS-lite severity scoring (2)
