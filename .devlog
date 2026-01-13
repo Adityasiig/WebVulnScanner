@@ -127,3 +127,4 @@
 [2026-01-08] fix: param discovery on SPA targets (1)
 [2026-01-08] fix: param discovery on SPA targets (2)
 [2026-01-13] feat: blind XSS callback listener (1)
+[2026-01-13] feat: blind XSS callback listener (2)
