@@ -135,3 +135,4 @@
 [2026-01-22] fix: prototype pollution edge cases (2)
 [2026-01-27] feat: cookie poisoning checker (1)
 [2026-01-27] feat: cookie poisoning checker (2)
+[2026-02-02] feat: GraphQL injection module (1)
