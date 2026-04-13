@@ -1,0 +1,28 @@
+[MAIN]
+# Use multiple processes to speed up pylint
+jobs=1
+
+[MESSAGES CONTROL]
+# Disable warnings that are not relevant for this project
+disable=
+    C0114,  # missing-module-docstring
+    C0115,  # missing-class-docstring
+    C0116,  # missing-function-docstring
+    C0301,  # line-too-long
+    C0104,  # disallowed-name
+    C0411,  # wrong-import-order
+    C0413,  # wrong-import-position
+    C0415,  # import-outside-toplevel
+    R0801,  # duplicate-code
+    R0902,  # too-many-instance-attributes
+    R0903,  # too-few-public-methods
+    R0912,  # too-many-branches
+    R0913,  # too-many-arguments
+    R0914,  # too-many-local-variables
+    R0915,  # too-many-statements
+    R0917,  # too-many-positional-arguments
+    W0613,  # unused-argument
+    W0718,  # broad-exception-caught
+    W1309,  # f-string-without-interpolation
+    W1514,  # unspecified-encoding
+    E1101,  # no-member (false positive for requests.packages.urllib3)
